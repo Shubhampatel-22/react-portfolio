@@ -23,7 +23,7 @@ function SocialLinks() {
                 GitHub <FaGithub size={30}/>
                 </>
             ),
-            href:"https://linkedin.com" 
+            href:"https://github.com/Shubhampatel-22" 
         },
         {
             id:3,
@@ -32,7 +32,7 @@ function SocialLinks() {
                 Mail <HiOutlineMail size={30}/>
                 </>
             ),
-            href:"mailto:foo@gmail.com" 
+            href:"mailto:spatel2262001@gmail.com" 
         },
         {
             id:4,
